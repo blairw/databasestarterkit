@@ -22,7 +22,7 @@ Please note: these instructions should be used for development and learning purp
 4. Now you will need to configure the security:
 
 	```zsh
-	sudo /opt/homebrew/bin/mysql_secure_installation
+	sudo mariadb-secure-installation
 	```
 	
 	Advice for how to fill out the form:
